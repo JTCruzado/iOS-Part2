@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct ContentView: View {
+    //uncomment for Example 6
+    //@State private var count = 0
     // Uncomment for Example 7
     // @State private var fontSize = 16.0
     
@@ -127,11 +129,8 @@ struct ContentView: View {
         // ------------------------------------------------
         /*
          Example 6: @State  is a special property wrapper in iOS that allows developers to store and manage the state of a view. In simpler terms, it’s a way to keep track of the current state of an app’s user interface.
-         
-         struct ContentView: View {
-         @State private var count = 0
-         
-         var body: some View {
+         */
+        /*
          VStack {
          Text("You've tapped the button \(count) times!")
          .padding()
@@ -140,9 +139,8 @@ struct ContentView: View {
          count += 1
          }
          }
-         }
-         }
-         */
+        */
+        
         
         // ------------------------------------------------
         /*
