@@ -7,24 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		63402B622B6BC7E50009DBD9 /* iOS2_Day2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63402B612B6BC7E50009DBD9 /* iOS2_Day2App.swift */; };
-		63402B642B6BC7E50009DBD9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63402B632B6BC7E50009DBD9 /* ContentView.swift */; };
-		63402B662B6BC7E60009DBD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63402B652B6BC7E60009DBD9 /* Assets.xcassets */; };
-		63402B692B6BC7E60009DBD9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63402B682B6BC7E60009DBD9 /* Preview Assets.xcassets */; };
-		639AB16D2B6C4B7D0009AD7B /* JeremysView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639AB16C2B6C4B7D0009AD7B /* JeremysView2.swift */; };
+		63D15C6C2B755AB900CF3DD9 /* iOS2_Day3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D15C6B2B755AB900CF3DD9 /* iOS2_Day3App.swift */; };
+		63D15C6E2B755AB900CF3DD9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D15C6D2B755AB900CF3DD9 /* ContentView.swift */; };
+		63D15C702B755ABA00CF3DD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63D15C6F2B755ABA00CF3DD9 /* Assets.xcassets */; };
+		63D15C732B755ABA00CF3DD9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63D15C722B755ABA00CF3DD9 /* Preview Assets.xcassets */; };
+		63D15C7A2B755CBE00CF3DD9 /* Struct_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D15C792B755CBE00CF3DD9 /* Struct_Demo.swift */; };
+		63D15C7C2B75608100CF3DD9 /* BehindTheView_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D15C7B2B75608100CF3DD9 /* BehindTheView_Demo.swift */; };
+		63D15C7E2B7561B900CF3DD9 /* ModifierOrder_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D15C7D2B7561B900CF3DD9 /* ModifierOrder_Demo.swift */; };
+		63D15C822B7566B000CF3DD9 /* ConditionalModifier_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D15C812B7566B000CF3DD9 /* ConditionalModifier_Demo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		63402B5E2B6BC7E50009DBD9 /* iOS2-Day2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS2-Day2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		63402B612B6BC7E50009DBD9 /* iOS2_Day2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS2_Day2App.swift; sourceTree = "<group>"; };
-		63402B632B6BC7E50009DBD9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		63402B652B6BC7E60009DBD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		63402B682B6BC7E60009DBD9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		639AB16C2B6C4B7D0009AD7B /* JeremysView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JeremysView2.swift; sourceTree = "<group>"; };
+		63D15C682B755AB900CF3DD9 /* iOS2-Day3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS2-Day3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63D15C6B2B755AB900CF3DD9 /* iOS2_Day3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS2_Day3App.swift; sourceTree = "<group>"; };
+		63D15C6D2B755AB900CF3DD9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		63D15C6F2B755ABA00CF3DD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		63D15C722B755ABA00CF3DD9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		63D15C792B755CBE00CF3DD9 /* Struct_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Struct_Demo.swift; sourceTree = "<group>"; };
+		63D15C7B2B75608100CF3DD9 /* BehindTheView_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BehindTheView_Demo.swift; sourceTree = "<group>"; };
+		63D15C7D2B7561B900CF3DD9 /* ModifierOrder_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifierOrder_Demo.swift; sourceTree = "<group>"; };
+		63D15C812B7566B000CF3DD9 /* ConditionalModifier_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalModifier_Demo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		63402B5B2B6BC7E50009DBD9 /* Frameworks */ = {
+		63D15C652B755AB900CF3DD9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -34,38 +40,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		63402B552B6BC7E50009DBD9 = {
+		63D15C5F2B755AB900CF3DD9 = {
 			isa = PBXGroup;
 			children = (
-				63402B602B6BC7E50009DBD9 /* iOS2-Day2 */,
-				63402B5F2B6BC7E50009DBD9 /* Products */,
+				63D15C6A2B755AB900CF3DD9 /* iOS2-Day3 */,
+				63D15C692B755AB900CF3DD9 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		63402B5F2B6BC7E50009DBD9 /* Products */ = {
+		63D15C692B755AB900CF3DD9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				63402B5E2B6BC7E50009DBD9 /* iOS2-Day2.app */,
+				63D15C682B755AB900CF3DD9 /* iOS2-Day3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		63402B602B6BC7E50009DBD9 /* iOS2-Day2 */ = {
+		63D15C6A2B755AB900CF3DD9 /* iOS2-Day3 */ = {
 			isa = PBXGroup;
 			children = (
-				63402B612B6BC7E50009DBD9 /* iOS2_Day2App.swift */,
-				63402B632B6BC7E50009DBD9 /* ContentView.swift */,
-				63402B652B6BC7E60009DBD9 /* Assets.xcassets */,
-				63402B672B6BC7E60009DBD9 /* Preview Content */,
-				639AB16C2B6C4B7D0009AD7B /* JeremysView2.swift */,
+				63D15C812B7566B000CF3DD9 /* ConditionalModifier_Demo.swift */,
+				63D15C7D2B7561B900CF3DD9 /* ModifierOrder_Demo.swift */,
+				63D15C7B2B75608100CF3DD9 /* BehindTheView_Demo.swift */,
+				63D15C792B755CBE00CF3DD9 /* Struct_Demo.swift */,
+				63D15C6D2B755AB900CF3DD9 /* ContentView.swift */,
+				63D15C6B2B755AB900CF3DD9 /* iOS2_Day3App.swift */,
+				63D15C6F2B755ABA00CF3DD9 /* Assets.xcassets */,
+				63D15C712B755ABA00CF3DD9 /* Preview Content */,
 			);
-			path = "iOS2-Day2";
+			path = "iOS2-Day3";
 			sourceTree = "<group>";
 		};
-		63402B672B6BC7E60009DBD9 /* Preview Content */ = {
+		63D15C712B755ABA00CF3DD9 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				63402B682B6BC7E60009DBD9 /* Preview Assets.xcassets */,
+				63D15C722B755ABA00CF3DD9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -73,39 +82,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		63402B5D2B6BC7E50009DBD9 /* iOS2-Day2 */ = {
+		63D15C672B755AB900CF3DD9 /* iOS2-Day3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 63402B6C2B6BC7E60009DBD9 /* Build configuration list for PBXNativeTarget "iOS2-Day2" */;
+			buildConfigurationList = 63D15C762B755ABA00CF3DD9 /* Build configuration list for PBXNativeTarget "iOS2-Day3" */;
 			buildPhases = (
-				63402B5A2B6BC7E50009DBD9 /* Sources */,
-				63402B5B2B6BC7E50009DBD9 /* Frameworks */,
-				63402B5C2B6BC7E50009DBD9 /* Resources */,
+				63D15C642B755AB900CF3DD9 /* Sources */,
+				63D15C652B755AB900CF3DD9 /* Frameworks */,
+				63D15C662B755AB900CF3DD9 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "iOS2-Day2";
-			productName = "iOS2-Day2";
-			productReference = 63402B5E2B6BC7E50009DBD9 /* iOS2-Day2.app */;
+			name = "iOS2-Day3";
+			productName = "iOS2-Day3";
+			productReference = 63D15C682B755AB900CF3DD9 /* iOS2-Day3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		63402B562B6BC7E50009DBD9 /* Project object */ = {
+		63D15C602B755AB900CF3DD9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1520;
 				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					63402B5D2B6BC7E50009DBD9 = {
+					63D15C672B755AB900CF3DD9 = {
 						CreatedOnToolsVersion = 15.2;
 					};
 				};
 			};
-			buildConfigurationList = 63402B592B6BC7E50009DBD9 /* Build configuration list for PBXProject "iOS2-Day2" */;
+			buildConfigurationList = 63D15C632B755AB900CF3DD9 /* Build configuration list for PBXProject "iOS2-Day3" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,43 +122,46 @@
 				en,
 				Base,
 			);
-			mainGroup = 63402B552B6BC7E50009DBD9;
-			productRefGroup = 63402B5F2B6BC7E50009DBD9 /* Products */;
+			mainGroup = 63D15C5F2B755AB900CF3DD9;
+			productRefGroup = 63D15C692B755AB900CF3DD9 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				63402B5D2B6BC7E50009DBD9 /* iOS2-Day2 */,
+				63D15C672B755AB900CF3DD9 /* iOS2-Day3 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		63402B5C2B6BC7E50009DBD9 /* Resources */ = {
+		63D15C662B755AB900CF3DD9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63402B692B6BC7E60009DBD9 /* Preview Assets.xcassets in Resources */,
-				63402B662B6BC7E60009DBD9 /* Assets.xcassets in Resources */,
+				63D15C732B755ABA00CF3DD9 /* Preview Assets.xcassets in Resources */,
+				63D15C702B755ABA00CF3DD9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		63402B5A2B6BC7E50009DBD9 /* Sources */ = {
+		63D15C642B755AB900CF3DD9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63402B642B6BC7E50009DBD9 /* ContentView.swift in Sources */,
-				639AB16D2B6C4B7D0009AD7B /* JeremysView2.swift in Sources */,
-				63402B622B6BC7E50009DBD9 /* iOS2_Day2App.swift in Sources */,
+				63D15C6E2B755AB900CF3DD9 /* ContentView.swift in Sources */,
+				63D15C822B7566B000CF3DD9 /* ConditionalModifier_Demo.swift in Sources */,
+				63D15C7E2B7561B900CF3DD9 /* ModifierOrder_Demo.swift in Sources */,
+				63D15C7C2B75608100CF3DD9 /* BehindTheView_Demo.swift in Sources */,
+				63D15C6C2B755AB900CF3DD9 /* iOS2_Day3App.swift in Sources */,
+				63D15C7A2B755CBE00CF3DD9 /* Struct_Demo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		63402B6A2B6BC7E60009DBD9 /* Debug */ = {
+		63D15C742B755ABA00CF3DD9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -212,7 +224,7 @@
 			};
 			name = Debug;
 		};
-		63402B6B2B6BC7E60009DBD9 /* Release */ = {
+		63D15C752B755ABA00CF3DD9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -268,14 +280,14 @@
 			};
 			name = Release;
 		};
-		63402B6D2B6BC7E60009DBD9 /* Debug */ = {
+		63D15C772B755ABA00CF3DD9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"iOS2-Day2/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"iOS2-Day3/Preview Content\"";
 				DEVELOPMENT_TEAM = 2U5HWYM4LU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -289,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "JTC.iOS2-Day2";
+				PRODUCT_BUNDLE_IDENTIFIER = "JTC.iOS2-Day3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -297,14 +309,14 @@
 			};
 			name = Debug;
 		};
-		63402B6E2B6BC7E60009DBD9 /* Release */ = {
+		63D15C782B755ABA00CF3DD9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"iOS2-Day2/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"iOS2-Day3/Preview Content\"";
 				DEVELOPMENT_TEAM = 2U5HWYM4LU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -318,7 +330,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "JTC.iOS2-Day2";
+				PRODUCT_BUNDLE_IDENTIFIER = "JTC.iOS2-Day3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -329,25 +341,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		63402B592B6BC7E50009DBD9 /* Build configuration list for PBXProject "iOS2-Day2" */ = {
+		63D15C632B755AB900CF3DD9 /* Build configuration list for PBXProject "iOS2-Day3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				63402B6A2B6BC7E60009DBD9 /* Debug */,
-				63402B6B2B6BC7E60009DBD9 /* Release */,
+				63D15C742B755ABA00CF3DD9 /* Debug */,
+				63D15C752B755ABA00CF3DD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63402B6C2B6BC7E60009DBD9 /* Build configuration list for PBXNativeTarget "iOS2-Day2" */ = {
+		63D15C762B755ABA00CF3DD9 /* Build configuration list for PBXNativeTarget "iOS2-Day3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				63402B6D2B6BC7E60009DBD9 /* Debug */,
-				63402B6E2B6BC7E60009DBD9 /* Release */,
+				63D15C772B755ABA00CF3DD9 /* Debug */,
+				63D15C782B755ABA00CF3DD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 63402B562B6BC7E50009DBD9 /* Project object */;
+	rootObject = 63D15C602B755AB900CF3DD9 /* Project object */;
 }
