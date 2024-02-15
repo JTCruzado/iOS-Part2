@@ -9,26 +9,31 @@ import SwiftUI
 
 struct ModifierOrder_Demo: View {
     var body: some View {
-        
-        Text("Hello, world!")
+        HStack{
+            Text("Fire, BBQ!")
+                .padding()
+                .background(.red)
+                .padding()
+                .background(.blue)
+                .padding()
+                .background(.green)
+                .padding()
+                .background(.yellow)
+                .padding()
+                .background(.purple)
+            
+            Button("Press Me") {
+                print("Button pressed!")
+            }
+            //modifier order matters
             .padding()
-            .background(.red)
+            .background(Color.green)
+            .clipShape(Capsule())
             .padding()
-            .background(.blue)
-            .padding()
-            .background(.green)
-            .padding()
-            .background(.yellow)
-        
-        Button("Press Me") {
-            print("Button pressed!")
+            .background(Color.red)
+            .clipShape(Capsule())
         }
-        //modifier order matters
-        .padding()
-        .background(Color.green)
-        .clipShape(Capsule())
     }
-
 }
 
 #Preview {

@@ -14,7 +14,11 @@ struct ConditionalModifier_Demo: View {
         Button("I Change colors when clicked") {
             useRedText.toggle()
         }
-        .foregroundColor(useRedText ? .red : .blue)
+        .padding()
+        .background(useRedText ? .red : .blue)
+        .foregroundColor(useRedText ? .blue : .red)
+        .clipShape(Capsule())
+        
     }
 }
 

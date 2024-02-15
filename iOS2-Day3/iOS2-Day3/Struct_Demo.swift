@@ -24,6 +24,6 @@ struct UserProfileView: View {
 
 #Preview {
     VStack {
-        UserProfileView(username: "Enter your Name", bio: "Swift developer")
+        UserProfileView(username: "Jeremy", bio: "Swift developer")
            }
 }

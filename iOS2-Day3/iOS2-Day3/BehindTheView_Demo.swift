@@ -9,10 +9,9 @@ import SwiftUI
 
 struct BehindTheView_Demo: View {
     var body: some View {
-        Text("Hello, world!")
-        // Uncomment to demo
-            //.frame(maxWidth: .infinity, maxHeight: .infinity)
-            .background(.red)
+        Text("Play, Tekken 8!")
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(.green)
     }
 }
 
